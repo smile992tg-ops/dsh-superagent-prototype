@@ -1,0 +1,35 @@
+{
+  "name": "wubi-trainer",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "description": "网页版五笔打字练习器：86 版同源码表、规则编码器、教学关卡、计分与错题本",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc -b && vite build",
+    "preview": "vite preview",
+    "data": "tsx scripts/build-data.ts",
+    "verify:codes": "tsx scripts/verify-codes.ts",
+    "test": "vitest run",
+    "test:watch": "vitest",
+    "test:e2e": "playwright test",
+    "check": "pnpm data && pnpm verify:codes && pnpm test && pnpm build"
+  },
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.64.1",
+    "@types/node": "^22.10.7",
+    "@types/react": "^18.3.18",
+    "@types/react-dom": "^18.3.5",
+    "@vitejs/plugin-react": "^4.3.4",
+    "jsdom": "^26.0.0",
+    "tsx": "^4.19.2",
+    "typescript": "^5.7.3",
+    "vite": "^6.1.0",
+    "vite-plugin-singlefile": "^2.0.3",
+    "vitest": "^3.0.5"
+  }
+}
