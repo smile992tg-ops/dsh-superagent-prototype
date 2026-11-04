@@ -1,0 +1,343 @@
+{
+  "version": "1.0",
+  "checked": 3500,
+  "mismatches": 0,
+  "missingDict": 0,
+  "missingDecomp": 0,
+  "ruleErrors": 0,
+  "shortCodeIssues": 0,
+  "shortStats": {
+    "level1": 25,
+    "level2": 580,
+    "level3": 2047
+  },
+  "phrasesChecked": 58543,
+  "phraseMismatches": 13,
+  "articleIssues": 0,
+  "sourceHashes": {
+    "wubi86.dict.yaml": "f833d86b72341fe82e069a425b6625f29ef85f1bc0f34f6fb7975fe514888b5a",
+    "level-1.txt": "79a6c710013cc86617d5db65871f59b2d67dee72415d380a2cc7145a51450fe4",
+    "data-wubi-v86.tsv": "0557bfcb2e18699d2ebab2234ef90491734d7cfb064f09fb8ef1331ea17e8fb7",
+    "roots-table.tsv": "a9262f9c011e7d9c19d133fd052b64cdecf0397b7536abd220af9a5a9e385ee8",
+    "roots.md": "b2ae4bc2a6fcca6d21512ab9f5f0a54ece5d6404cdbd3c012baaa03b1a5a2ef0"
+  },
+  "acceptedDifferences": [],
+  "idSamples": [
+    {
+      "char": "入",
+      "roots": [
+        "",
+        ""
+      ],
+      "rootKeys": "ty",
+      "lastStroke": "捺",
+      "structure": "杂合",
+      "zone": 43,
+      "idKey": "i",
+      "ruleCode": "tyi",
+      "dictFull": "tyi",
+      "short2": "ty"
+    },
+    {
+      "char": "刁",
+      "roots": [
+        "",
+        ""
+      ],
+      "rootKeys": "ng",
+      "lastStroke": "横",
+      "structure": "杂合",
+      "zone": 13,
+      "idKey": "d",
+      "ruleCode": "ngd",
+      "dictFull": "ngd",
+      "short2": "—"
+    },
+    {
+      "char": "于",
+      "roots": [
+        "",
+        ""
+      ],
+      "rootKeys": "gf",
+      "lastStroke": "竖",
+      "structure": "杂合",
+      "zone": 23,
+      "idKey": "k",
+      "ruleCode": "gfk",
+      "dictFull": "gfk",
+      "short2": "gf"
+    },
+    {
+      "char": "亏",
+      "roots": [
+        "",
+        ""
+      ],
+      "rootKeys": "fn",
+      "lastStroke": "折",
+      "structure": "杂合",
+      "zone": 53,
+      "idKey": "v",
+      "ruleCode": "fnv",
+      "dictFull": "fnv",
+      "short2": "—"
+    },
+    {
+      "char": "才",
+      "roots": [
+        "",
+        ""
+      ],
+      "rootKeys": "ft",
+      "lastStroke": "撇",
+      "structure": "杂合",
+      "zone": 33,
+      "idKey": "e",
+      "ruleCode": "fte",
+      "dictFull": "fte",
+      "short2": "ft"
+    },
+    {
+      "char": "下",
+      "roots": [
+        "",
+        ""
+      ],
+      "rootKeys": "gh",
+      "lastStroke": "捺",
+      "structure": "杂合",
+      "zone": 43,
+      "idKey": "i",
+      "ruleCode": "ghi",
+      "dictFull": "ghi",
+      "short2": "gh"
+    },
+    {
+      "char": "丈",
+      "roots": [
+        "",
+        ""
+      ],
+      "rootKeys": "dy",
+      "lastStroke": "捺",
+      "structure": "杂合",
+      "zone": 43,
+      "idKey": "i",
+      "ruleCode": "dyi",
+      "dictFull": "dyi",
+      "short2": "—"
+    },
+    {
+      "char": "与",
+      "roots": [
+        "",
+        "",
+        ""
+      ],
+      "rootKeys": "gng",
+      "lastStroke": "横",
+      "structure": "杂合",
+      "zone": 13,
+      "idKey": "d",
+      "ruleCode": "gngd",
+      "dictFull": "gngd",
+      "short2": "gn"
+    },
+    {
+      "char": "万",
+      "roots": [
+        "",
+        ""
+      ],
+      "rootKeys": "dn",
+      "lastStroke": "折",
+      "structure": "杂合",
+      "zone": 53,
+      "idKey": "v",
+      "ruleCode": "dnv",
+      "dictFull": "dnv",
+      "short2": "—"
+    },
+    {
+      "char": "巾",
+      "roots": [
+        "",
+        ""
+      ],
+      "rootKeys": "mh",
+      "lastStroke": "竖",
+      "structure": "杂合",
+      "zone": 23,
+      "idKey": "k",
+      "ruleCode": "mhk",
+      "dictFull": "mhk",
+      "short2": "—"
+    },
+    {
+      "char": "千",
+      "roots": [
+        "",
+        ""
+      ],
+      "rootKeys": "tf",
+      "lastStroke": "竖",
+      "structure": "杂合",
+      "zone": 23,
+      "idKey": "k",
+      "ruleCode": "tfk",
+      "dictFull": "tfk",
+      "short2": "—"
+    },
+    {
+      "char": "乞",
+      "roots": [
+        "",
+        ""
+      ],
+      "rootKeys": "tn",
+      "lastStroke": "折",
+      "structure": "上下",
+      "zone": 52,
+      "idKey": "b",
+      "ruleCode": "tnb",
+      "dictFull": "tnb",
+      "short2": "—"
+    },
+    {
+      "char": "亿",
+      "roots": [
+        "",
+        ""
+      ],
+      "rootKeys": "wn",
+      "lastStroke": "折",
+      "structure": "左右",
+      "zone": 51,
+      "idKey": "n",
+      "ruleCode": "wnn",
+      "dictFull": "wnn",
+      "short2": "wn"
+    },
+    {
+      "char": "个",
+      "roots": [
+        "",
+        ""
+      ],
+      "rootKeys": "wh",
+      "lastStroke": "竖",
+      "structure": "上下",
+      "zone": 22,
+      "idKey": "j",
+      "ruleCode": "whj",
+      "dictFull": "whj",
+      "short2": "wh"
+    },
+    {
+      "char": "久",
+      "roots": [
+        "",
+        ""
+      ],
+      "rootKeys": "qy",
+      "lastStroke": "捺",
+      "structure": "杂合",
+      "zone": 43,
+      "idKey": "i",
+      "ruleCode": "qyi",
+      "dictFull": "qyi",
+      "short2": "qy"
+    },
+    {
+      "char": "么",
+      "roots": [
+        "",
+        ""
+      ],
+      "rootKeys": "tc",
+      "lastStroke": "捺",
+      "structure": "上下",
+      "zone": 42,
+      "idKey": "u",
+      "ruleCode": "tcu",
+      "dictFull": "tcu",
+      "short2": "tc"
+    },
+    {
+      "char": "勺",
+      "roots": [
+        "",
+        ""
+      ],
+      "rootKeys": "qy",
+      "lastStroke": "捺",
+      "structure": "杂合",
+      "zone": 43,
+      "idKey": "i",
+      "ruleCode": "qyi",
+      "dictFull": "qyi",
+      "short2": "—"
+    },
+    {
+      "char": "凡",
+      "roots": [
+        "",
+        ""
+      ],
+      "rootKeys": "my",
+      "lastStroke": "捺",
+      "structure": "杂合",
+      "zone": 43,
+      "idKey": "i",
+      "ruleCode": "myi",
+      "dictFull": "myi",
+      "short2": "my"
+    },
+    {
+      "char": "丸",
+      "roots": [
+        "",
+        ""
+      ],
+      "rootKeys": "vy",
+      "lastStroke": "捺",
+      "structure": "杂合",
+      "zone": 43,
+      "idKey": "i",
+      "ruleCode": "vyi",
+      "dictFull": "vyi",
+      "short2": "—"
+    },
+    {
+      "char": "及",
+      "roots": [
+        "",
+        ""
+      ],
+      "rootKeys": "ey",
+      "lastStroke": "捺",
+      "structure": "杂合",
+      "zone": 43,
+      "idKey": "i",
+      "ruleCode": "eyi",
+      "dictFull": "eyi",
+      "short2": "ey"
+    }
+  ],
+  "phraseMismatchSamples": [
+    "版权所有: 码表 bqsy",
+    "蹂躏: 码表 kcka",
+    "踊跃: 码表 kckt",
+    "践踏: 码表 kgki",
+    "围堵: 码表 lfft",
+    "猿猴: 码表 qfqw",
+    "鱼鳞: 码表 qgqo",
+    "猖狂: 码表 qjqg",
+    "猩猩: 码表 qjqj",
+    "狰狞: 码表 qqqp",
+    "狐狸: 码表 qrqj",
+    "鲜鱼: 码表 quqg",
+    "鲸鱼: 码表 qyqg"
+  ]
+}

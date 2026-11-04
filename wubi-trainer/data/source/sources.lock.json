@@ -1,0 +1,35 @@
+{
+  "version": 1,
+  "files": {
+    "wubi86.dict.yaml": {
+      "url": "https://raw.githubusercontent.com/rime/rime-wubi/152a0d3f3efe40cae216d1e3b338242446848d07/wubi86.dict.yaml",
+      "commit": "152a0d3f3efe40cae216d1e3b338242446848d07",
+      "sha256": "f833d86b72341fe82e069a425b6625f29ef85f1bc0f34f6fb7975fe514888b5a",
+      "license": "LGPL-3.0"
+    },
+    "level-1.txt": {
+      "url": "https://raw.githubusercontent.com/shengdoushi/common-standard-chinese-characters-table/d9b599a9c9cc0dd2d58cad829e285bc780cd4451/level-1.txt",
+      "commit": "d9b599a9c9cc0dd2d58cad829e285bc780cd4451",
+      "sha256": "79a6c710013cc86617d5db65871f59b2d67dee72415d380a2cc7145a51450fe4",
+      "license": "《通用规范汉字表》一级字表；转录仓库未附许可"
+    },
+    "data-wubi-v86.tsv": {
+      "url": "https://raw.githubusercontent.com/sdcb/wubi86-viewer/3e527ceea1b52e8f75fd3d520a4007ab7b42391e/data-src/data-wubi-v86.tsv",
+      "commit": "3e527ceea1b52e8f75fd3d520a4007ab7b42391e",
+      "sha256": "0557bfcb2e18699d2ebab2234ef90491734d7cfb064f09fb8ef1331ea17e8fb7",
+      "license": "拆字资料来自 sdcb/search-wubi；仓库未附明确数据许可"
+    },
+    "roots-table.tsv": {
+      "url": "https://raw.githubusercontent.com/sdcb/search-wubi/10c88b4217a9fe81f5b6125bcdebbede7a47b2cc/docs/wiki/data/roots-table.tsv",
+      "commit": "10c88b4217a9fe81f5b6125bcdebbede7a47b2cc",
+      "sha256": "a9262f9c011e7d9c19d133fd052b64cdecf0397b7536abd220af9a5a9e385ee8",
+      "license": "拆字资料来自 sdcb/search-wubi；仓库未附明确数据许可"
+    },
+    "roots.md": {
+      "url": "https://raw.githubusercontent.com/sdcb/search-wubi/10c88b4217a9fe81f5b6125bcdebbede7a47b2cc/docs/wiki/roots.md",
+      "commit": "10c88b4217a9fe81f5b6125bcdebbede7a47b2cc",
+      "sha256": "b2ae4bc2a6fcca6d21512ab9f5f0a54ece5d6404cdbd3c012baaa03b1a5a2ef0",
+      "license": "拆字资料来自 sdcb/search-wubi；仓库未附明确数据许可"
+    }
+  }
+}
