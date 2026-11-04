@@ -10,6 +10,7 @@
 | `level-1.txt` | 《通用规范汉字表》一级字表 3500 字 | [shengdoushi/common-standard-chinese-characters-table](https://github.com/shengdoushi/common-standard-chinese-characters-table) @ `d9b599a9c9cc0dd2d58cad829e285bc780cd4451` | 国家标准字表；转录仓库未附许可 |
 | `data-wubi-v86.tsv` | 86 版拆字：字根序列、成字字根/键名/单笔画类型、识别码说明 | [sdcb/wubi86-viewer](https://github.com/sdcb/wubi86-viewer) @ `3e527ceea1b52e8f75fd3d520a4007ab7b42391e`（`data-src/data-wubi-v86.tsv`） | 数据来自 [sdcb/search-wubi](https://github.com/sdcb/search-wubi)，原始字根拆解资料标注为 86wb.ysepan.com；仓库未附明确数据许可 |
 | `roots-table.tsv` | 25 键字根表：PUA 字根字形 → 键位，用于独立推导字根键位 | [sdcb/search-wubi](https://github.com/sdcb/search-wubi) @ `10c88b4217a9fe81f5b6125bcdebbede7a47b2cc`（`docs/wiki/data/roots-table.tsv`） | 同上 |
+| `roots.md` | 折笔变体字根的补充说明（顺时针/逆时针 28 个 PUA 字形），用于补全独立字根键位表 | 同上（`docs/wiki/roots.md`） | 同上 |
 
 ## 为什么选 86 版
 

@@ -24,6 +24,12 @@
       "commit": "10c88b4217a9fe81f5b6125bcdebbede7a47b2cc",
       "sha256": "a9262f9c011e7d9c19d133fd052b64cdecf0397b7536abd220af9a5a9e385ee8",
       "license": "拆字资料来自 sdcb/search-wubi；仓库未附明确数据许可"
+    },
+    "roots.md": {
+      "url": "https://raw.githubusercontent.com/sdcb/search-wubi/10c88b4217a9fe81f5b6125bcdebbede7a47b2cc/docs/wiki/roots.md",
+      "commit": "10c88b4217a9fe81f5b6125bcdebbede7a47b2cc",
+      "sha256": "b2ae4bc2a6fcca6d21512ab9f5f0a54ece5d6404cdbd3c012baaa03b1a5a2ef0",
+      "license": "拆字资料来自 sdcb/search-wubi；仓库未附明确数据许可"
     }
   }
 }

@@ -32,7 +32,14 @@
 - 许可：上述仓库未附明确的数据许可文件；本项目以研究/教学原型方式署名使用。若需商用，
   请先向原始资料发布者确认授权。
 
-## 4. 本项目原创内容
+## 4. 字根字形字体（黑体字根.ttf）
+
+- 来源：<https://github.com/sdcb/search-wubi>（`docs/static/font/黑体字根.ttf`，
+  commit `10c88b4217a9fe81f5b6125bcdebbede7a47b2cc`），原始字形来自 86wb.ysepan.com
+- 用途：`src/assets/wubi-roots.ttf` 在浏览器中渲染拆字库使用的 PUA 字根字形
+- 许可：与第 3 项相同，原始资料未附明确许可；以研究/教学原型方式署名使用
+
+## 5. 本项目原创内容
 
 - `src/`、`scripts/`、`tests/` 中的代码与测试。
 - `scripts/lib/articles.ts` 中的练习文章。

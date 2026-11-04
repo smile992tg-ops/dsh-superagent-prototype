@@ -6,7 +6,8 @@
   "description": "网页版五笔打字练习器：86 版同源码表、规则编码器、教学关卡、计分与错题本",
   "scripts": {
     "dev": "vite",
-    "build": "tsc -b && vite build",
+    "build": "tsc --noEmit && vite build",
+    "typecheck": "tsc --noEmit",
     "preview": "vite preview",
     "data": "tsx scripts/build-data.ts",
     "verify:codes": "tsx scripts/verify-codes.ts",
